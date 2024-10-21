@@ -1,1 +1,1 @@
-1st proof-of-concept project
+Legacy Kaggle dataset 
